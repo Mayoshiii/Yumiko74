@@ -2,7 +2,7 @@ Yumiko Harashi
 Interested in : Development
 Currently learning : HTML, CSS & PHP
 Looking to collaborate on : WebSites
-How to reach me : yumikoharashi123@gmail.com
+How to reach me : yumikoharashiii@gmail.com
 
 <!---
 Yumiko74/Yumiko74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
